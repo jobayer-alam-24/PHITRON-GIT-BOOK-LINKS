@@ -1,0 +1,3 @@
+ALGORITHM: https://phitron.gitbook.io/algorithm
+DJANGO: https://phitron.gitbook.io/django
+DATABASE: https://phitron.gitbook.io/database
